@@ -11,11 +11,11 @@ remote_branch: gh-pages
 remote_name: origin
 nav:
     - 'Introduction': 'index.md'
-    - 'User Guide': 
-         - 'Creating a new Mashmallow project': 'user-guide/creating.md'
-         - 'Mashmallow API guide': 'user-guide/api.md'
-         - 'Configuring Mashmallow': 'user-guide/configuration.md'
-    - 'About': 
+    - 'ubuntu_homeset':
+         - 'mkdocs': 'ubuntu_homeset/app_mkdocs.md'
+    - 'alicloud':
+         - 'myweb-init': 'alicloud/myweb_init.md'
+    - 'About':
          - 'License': 'about/license.md'
 theme:
   name: material
@@ -57,5 +57,3 @@ markdown_extensions:
 plugins:
     - search:
         separator: '[\s\-\.]+'
-
-
