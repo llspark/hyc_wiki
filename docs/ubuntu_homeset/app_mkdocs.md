@@ -50,18 +50,22 @@ INFO    -  Cleaning site directory
 * 1 登录github创建一个仓库hyc_wiki
 * 2 本地初始化仓库
 ```
+> sudo apt-get install git
+> git config --global user.email "hyc8711@163.com"    设置github账户信息
+> git config --global user.name "hyc8711@163.com"
 > cd mkdocs_wiki
 > echo "# hyc_wiki" >> README.md
 > git init
 > git add README.md
-> git config --global user.email "hyc8711@163.com"    设置github账户信息
-> git config --global user.name "hyc8711@163.com"
 > git commit -m "first commit"
 > git remote add origin https://github.com/llspark/hyc_wiki.git
 > git push origin master
 ```  
 如上把README.md上传到了github上  
-若在github上修改了导致本地和远程的版本不一致，需要先pull同步下 git pull --rebase origin master
+若在github上修改了导致本地和远程的版本不一致，需要先pull同步下 
+``git pull --rebase origin master``
+若在新环境中搭建了mkdocs，要把原来的项目从线上拷贝下来，拷贝整个hyc_wiki目录
+``> git clone  https://github.com/llspark/hyc_wiki``
 
 ### 4. 生成web站点
 ```
