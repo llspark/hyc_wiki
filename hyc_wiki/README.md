@@ -1,0 +1,1 @@
+# hyc_wiki

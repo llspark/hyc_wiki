@@ -1,0 +1,96 @@
+INFO    -  Building documentation... 
+INFO    -  Cleaning site directory 
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - user-guide/api.md
+  - user-guide/configuration.md
+  - user-guide/creating.md 
+INFO    -  Documentation built in 0.21 seconds 
+[I 200301 11:09:01 server:296] Serving on http://127.0.0.1:8000
+INFO    -  Serving on http://127.0.0.1:8000
+[I 200301 11:09:01 handlers:62] Start watching changes
+INFO    -  Start watching changes
+[I 200301 11:09:01 handlers:64] Start detecting changes
+INFO    -  Start detecting changes
+[I 200301 11:09:12 handlers:135] Browser Connected: http://127.0.0.1:8000/
+INFO    -  Browser Connected: http://127.0.0.1:8000/
+[I 200301 11:09:16 handlers:135] Browser Connected: http://127.0.0.1:8000/ubuntu_homeset/app_mkdocs/
+INFO    -  Browser Connected: http://127.0.0.1:8000/ubuntu_homeset/app_mkdocs/
+[I 200301 11:14:09 watcher:104] Running task: builder (delay: None)
+INFO    -  Running task: builder (delay: None)
+INFO    -  Building documentation... 
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - user-guide/api.md
+  - user-guide/configuration.md
+  - user-guide/creating.md 
+[I 200301 11:14:09 handlers:95] Reload 1 waiters: /home/llblaze/hyc_wiki/docs/ubuntu_homeset/app_mkdocs.md
+INFO    -  Reload 1 waiters: /home/llblaze/hyc_wiki/docs/ubuntu_homeset/app_mkdocs.md
+[I 200301 11:14:10 handlers:135] Browser Connected: http://127.0.0.1:8000/ubuntu_homeset/app_mkdocs/
+INFO    -  Browser Connected: http://127.0.0.1:8000/ubuntu_homeset/app_mkdocs/
+[I 200301 11:15:12 watcher:104] Running task: builder (delay: None)
+INFO    -  Running task: builder (delay: None)
+INFO    -  Building documentation... 
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - user-guide/api.md
+  - user-guide/configuration.md
+  - user-guide/creating.md 
+[I 200301 11:15:12 handlers:95] Reload 1 waiters: /home/llblaze/hyc_wiki/docs/ubuntu_homeset/app_mkdocs.md
+INFO    -  Reload 1 waiters: /home/llblaze/hyc_wiki/docs/ubuntu_homeset/app_mkdocs.md
+[I 200301 11:15:13 handlers:135] Browser Connected: http://127.0.0.1:8000/ubuntu_homeset/app_mkdocs/
+INFO    -  Browser Connected: http://127.0.0.1:8000/ubuntu_homeset/app_mkdocs/
+[I 200301 11:31:31 watcher:104] Running task: builder (delay: None)
+INFO    -  Running task: builder (delay: None)
+INFO    -  Building documentation... 
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - user-guide/api.md
+  - user-guide/configuration.md
+  - user-guide/creating.md 
+[I 200301 11:31:32 handlers:95] Reload 1 waiters: /home/llblaze/hyc_wiki/docs/ubuntu_homeset/app_mkdocs.md
+INFO    -  Reload 1 waiters: /home/llblaze/hyc_wiki/docs/ubuntu_homeset/app_mkdocs.md
+[I 200301 11:31:32 handlers:135] Browser Connected: http://127.0.0.1:8000/ubuntu_homeset/app_mkdocs/
+INFO    -  Browser Connected: http://127.0.0.1:8000/ubuntu_homeset/app_mkdocs/
+[I 200301 11:31:49 watcher:104] Running task: builder (delay: None)
+INFO    -  Running task: builder (delay: None)
+INFO    -  Building documentation... 
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - user-guide/api.md
+  - user-guide/configuration.md
+  - user-guide/creating.md 
+[I 200301 11:31:49 handlers:95] Reload 1 waiters: /home/llblaze/hyc_wiki/docs/ubuntu_homeset/app_mkdocs.md
+INFO    -  Reload 1 waiters: /home/llblaze/hyc_wiki/docs/ubuntu_homeset/app_mkdocs.md
+[I 200301 11:31:50 handlers:135] Browser Connected: http://127.0.0.1:8000/ubuntu_homeset/app_mkdocs/
+INFO    -  Browser Connected: http://127.0.0.1:8000/ubuntu_homeset/app_mkdocs/
+[I 200301 11:32:46 watcher:104] Running task: builder (delay: None)
+INFO    -  Running task: builder (delay: None)
+INFO    -  Building documentation... 
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - user-guide/api.md
+  - user-guide/configuration.md
+  - user-guide/creating.md 
+[I 200301 11:32:46 handlers:95] Reload 1 waiters: /home/llblaze/hyc_wiki/docs/ubuntu_homeset/app_mkdocs.md
+INFO    -  Reload 1 waiters: /home/llblaze/hyc_wiki/docs/ubuntu_homeset/app_mkdocs.md
+[I 200301 11:32:46 handlers:135] Browser Connected: http://127.0.0.1:8000/ubuntu_homeset/app_mkdocs/
+INFO    -  Browser Connected: http://127.0.0.1:8000/ubuntu_homeset/app_mkdocs/
+[I 200301 11:33:25 watcher:104] Running task: builder (delay: None)
+INFO    -  Running task: builder (delay: None)
+INFO    -  Building documentation... 
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - user-guide/api.md
+  - user-guide/configuration.md
+  - user-guide/creating.md 
+[I 200301 11:33:25 handlers:95] Reload 1 waiters: /home/llblaze/hyc_wiki/docs/ubuntu_homeset/app_mkdocs.md
+INFO    -  Reload 1 waiters: /home/llblaze/hyc_wiki/docs/ubuntu_homeset/app_mkdocs.md
+[I 200301 11:33:26 handlers:135] Browser Connected: http://127.0.0.1:8000/ubuntu_homeset/app_mkdocs/
+INFO    -  Browser Connected: http://127.0.0.1:8000/ubuntu_homeset/app_mkdocs/
+[I 200301 11:40:39 watcher:104] Running task: builder (delay: None)
+INFO    -  Running task: builder (delay: None)
+INFO    -  Building documentation... 
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - user-guide/api.md
+  - user-guide/configuration.md
+  - user-guide/creating.md 
+[I 200301 11:40:40 handlers:95] Reload 1 waiters: /home/llblaze/hyc_wiki/docs/ubuntu_homeset/app_mkdocs.md
+INFO    -  Reload 1 waiters: /home/llblaze/hyc_wiki/docs/ubuntu_homeset/app_mkdocs.md
+[I 200301 11:40:40 handlers:135] Browser Connected: http://127.0.0.1:8000/ubuntu_homeset/app_mkdocs/
+INFO    -  Browser Connected: http://127.0.0.1:8000/ubuntu_homeset/app_mkdocs/
+[I 200301 11:55:29 handlers:135] Browser Connected: http://127.0.0.1:8000/ubuntu_homeset/app_mkdocs/
+INFO    -  Browser Connected: http://127.0.0.1:8000/ubuntu_homeset/app_mkdocs/
