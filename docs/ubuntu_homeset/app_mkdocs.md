@@ -51,11 +51,11 @@ INFO    -  Cleaning site directory
 * 2 本地初始化仓库
 ```
 > sudo apt-get install git
-> git config --global user.email "hyc8711@163.com"    设置github账户信息
+> git config --global user.email "hyc8711@163.com"    # 设置github账户信息
 > git config --global user.name "hyc8711@163.com"
 > cd mkdocs_wiki
 > echo "# hyc_wiki" >> README.md
-> git init
+> git init            # 在mkdocs_wiki下初始化创建.git
 > git add README.md
 > git commit -m "first commit"
 > git remote add origin https://github.com/llspark/hyc_wiki.git
@@ -152,5 +152,13 @@ markdown教程：https://www.runoob.com/markdown/md-paragraph.html
 ```
 > git add *  #文件或目录
 > git commit -m "# wiki1.0 commit"
+> git push origin master
+```
+## 补充git命令
+删除github中文件
+```
+> git pull origin master             # 将远程仓库里面的项目拉下来,master=https://github.com/llspark/hyc_wiki.git
+> git rm -r --cached target          # 删除target文件夹
+> git commit -m "del target"
 > git push origin master
 ```
