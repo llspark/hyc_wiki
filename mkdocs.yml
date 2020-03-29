@@ -13,6 +13,7 @@ nav:
     - 'Introduction': 'index.md'
     - 'ubuntu_homeset':
          - 'mkdocs': 'ubuntu_homeset/app_mkdocs.md'
+	 - 'postgresql': 'ubuntu_homeset/app_postgresql'
     - 'alicloud':
          - 'myweb-init': 'alicloud/myweb_init.md'
     - 'About':
